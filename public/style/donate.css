@@ -215,7 +215,6 @@ body {
 }
 
 .donate-guide-apply div {
-    width: 1060px;
     color: #575757;
     font-size: 22px;
     line-height: 30px;
@@ -290,7 +289,7 @@ body {
     margin-bottom: 121px;
     height: 35px;
     padding-right: 50px;
-    padding-left: 48px;
+    padding-left: 40px;
 }
 
 .donating-project-paging ul {
