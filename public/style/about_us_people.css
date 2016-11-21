@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width:1440px;
+    margin: 0;
+    padding: 0;
+    color: #444;
+    box-sizing: border-box;
+    font: 14px/1 Helvetica Neue, Helvetica, Arial, Hiragino Sans GB, Microsoft YaHei, \\5FAE\8F6F\96C5\9ED1, WenQuanYi Micro Hei, sans-serif;
+}
+h2,h3,h4,h5{
+    margin:0;
+}
+
+.donate-way-title {
+    text-align: center;
+    color: #ec4c9a;
+    font-size: 48px;
+    line-height: 56px;
+    margin-top: 57px;
+    margin-bottom: 21px;
+}
+/*---------------------------------------------------*/
+.us_people_root{
+    text-align: center;
+}
+.us_people_root p{
+    font-size: 22px;
+    line-height:30px;
+    color: #575757;
+    margin-top:36px;
+    margin-bottom:36px;
+}
+.us_people_root button{
+    color:#fff;
+    width:275px;
+    height:52px;
+    border-radius: 4px;
+    background-color: #ec4c9a;
+    font-size: 20px;
+    line-height: 52px;
+}
+/*-----------------------------*/
+.us_people_leader h2{
+    margin-top:84px;
+    margin-bottom:36px;
+}
+
+.us_people_leader_left{
+    background-color: #e1409d;
+    width:178px;
+    height:178px;
+    font-size: 14px;
+    line-height:18px;
+    color:#fff;
+    float: left;
+    display: inline-block;
+}
+.us_people_leader img{
+    margin-left:50px;
+    width:178px;
+    height:178px;
+    background-color: #b9b9b9;
+}
+.us_people_leader .row{
+    /*text-align: center;*/
+    width:410px;
+    margin:0 auto;
+    /*margin:0 19px;*/
+}
+/*---------------------------------------------------*/
+.us_people_team_leader,.us_people_group{
+    text-align: center;
+}
+.us_people_team_leader img,.us_people_group img{
+    width: 130px;
+    height:130px;
+    background-color: #b9b9b9;
+    margin-left:37px;
+    margin-bottom: 36px;
+}
+.us_people_group h2{
+    margin-top:34px;
+    margin-bottom: 32px;
+}
+.us_people_team_leader h2{
+    margin-top:70px;
+    margin-bottom: 36px;
+}
+/*-----------------------------------------------------*/
+.us_people_group button{
+    display: block;
+    color:#fff;
+    margin:0 auto;
+    margin-top:20px;
+    margin-bottom: 115px;
+    width:326px;
+    height:52px;
+    font-size:20px;
+    text-align: center;
+    line-height: 52px;
+    border-radius: 4px;
+    background-color: #ec4c9a;
+}
