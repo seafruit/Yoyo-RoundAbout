@@ -60,7 +60,7 @@ h2,h3,h4,h5{
     font-size:18px;
     line-height:31px;
     margin-bottom:64px;
-    margin-top:36px;
+    margin-top:36px
 }
 .news_event_category button{
     margin-left:20px;
@@ -140,17 +140,16 @@ h2,h3,h4,h5{
 }
 
 /*0---------------------------------------*/
-.donating-project-paging{
-    float: left;
-    margin-bottom:120px;
-    margin-top: 7px;
+.donating-project-paging {
+    margin-top: 45px;
+    margin-bottom: 121px;
+    height: 35px;
+    padding-right: 50px;
+    padding-left: 40px;
 }
+
 .donating-project-paging ul {
     list-style: none;
-    float: left;
-    overflow: hidden;
-    padding-left:28px;
-
 }
 
 .donating-project-paging-selected {
@@ -168,5 +167,13 @@ h2,h3,h4,h5{
     color: #4a4a4a;
     margin-right: 8px;
     background-color: #f8f9fb;
+}
+
+.donating-project-paging a {
+    /*margin-right:0px;*/
+    float: right;
+    font-size: 22px;
+    line-height: 35px;
+    color: #ec4c9a;
 }
 
